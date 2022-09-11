@@ -12,7 +12,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 -JAVASCRIPT
 
 ## LINKS
-Github Repo: 
+Github Repo: https://github.com/Joelhiguera/react-portfolio
 
 Github Deployment: 
 
