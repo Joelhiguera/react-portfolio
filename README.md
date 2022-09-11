@@ -18,5 +18,5 @@ Github Deployment:
 
 
 # SCREENSHOTS 
-![Alt text]()
-![Alt text]()
+![Alt text](screenShot1.PNG)
+![Alt text](screenShot2.PNG)
