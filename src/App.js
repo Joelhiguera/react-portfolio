@@ -8,7 +8,7 @@ import Navigator from './components/Navigator';
 
 function App() {
   const [pages] = useState([
-    {name: 'About Me'},
+    {name: 'Aboutme'},
     {name: 'Portfolio'},
     {name: 'Contact'}, 
     {name: 'Resume'},
