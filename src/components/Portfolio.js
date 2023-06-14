@@ -33,20 +33,6 @@ const Portfolio = () => {
       repo: 'https://github.com/Joelhiguera/Password-Generator',
       image: 'image4.jpg',
     },
-    {
-      name: 'Resume Builder',
-      descripiton: 'Collaberated on a resume generater website',
-      deployed: 'https://stunning-chainsaw.herokuapp.com/', //link to project
-      repo: 'https://github.com/LimeRicky84/stunning-chainsaw',
-      image: 'image2.jpg',
-    },
-    {
-      name: 'Note Taker App',
-      descripiton: 'Note taking application',
-      deployed: 'https://bootcamp-note-taker11.herokuapp.com/', //link to project
-      repo: 'https://github.com/Joelhiguera/Week11_Note_Taker',
-      image: 'notes.jpg',
-    },
   ])
   return(
     <>
