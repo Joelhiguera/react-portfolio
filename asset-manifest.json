@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-portfolio./static/css/main.408016e7.chunk.css",
-  "main.js": "/react-portfolio./static/js/main.89458a8c.chunk.js",
-  "main.js.map": "/react-portfolio./static/js/main.89458a8c.chunk.js.map",
-  "static/js/1.19d0d91d.chunk.js": "/react-portfolio./static/js/1.19d0d91d.chunk.js",
-  "static/js/1.19d0d91d.chunk.js.map": "/react-portfolio./static/js/1.19d0d91d.chunk.js.map",
-  "runtime~main.js": "/react-portfolio./static/js/runtime~main.21b61c8b.js",
-  "runtime~main.js.map": "/react-portfolio./static/js/runtime~main.21b61c8b.js.map",
-  "static/media/avatar.jpg": "/react-portfolio./static/media/avatar.64b06946.jpg",
-  "static/media/Resume2023.pdf": "/react-portfolio./static/media/Resume2023.f5497806.pdf",
-  "static/css/main.408016e7.chunk.css.map": "/react-portfolio./static/css/main.408016e7.chunk.css.map",
-  "index.html": "/react-portfolio./index.html",
-  "precache-manifest.fbdac8a81ac7f68b4e2bd8018a3ae4d5.js": "/react-portfolio./precache-manifest.fbdac8a81ac7f68b4e2bd8018a3ae4d5.js",
-  "service-worker.js": "/react-portfolio./service-worker.js"
+  "main.css": "/react-portfolio/static/css/main.408016e7.chunk.css",
+  "main.js": "/react-portfolio/static/js/main.89458a8c.chunk.js",
+  "main.js.map": "/react-portfolio/static/js/main.89458a8c.chunk.js.map",
+  "static/js/1.19d0d91d.chunk.js": "/react-portfolio/static/js/1.19d0d91d.chunk.js",
+  "static/js/1.19d0d91d.chunk.js.map": "/react-portfolio/static/js/1.19d0d91d.chunk.js.map",
+  "runtime~main.js": "/react-portfolio/static/js/runtime~main.f8926043.js",
+  "runtime~main.js.map": "/react-portfolio/static/js/runtime~main.f8926043.js.map",
+  "static/media/avatar.jpg": "/react-portfolio/static/media/avatar.64b06946.jpg",
+  "static/media/Resume2023.pdf": "/react-portfolio/static/media/Resume2023.f5497806.pdf",
+  "static/css/main.408016e7.chunk.css.map": "/react-portfolio/static/css/main.408016e7.chunk.css.map",
+  "index.html": "/react-portfolio/index.html",
+  "precache-manifest.bd3a8bdfeae01156b58e9a676a729388.js": "/react-portfolio/precache-manifest.bd3a8bdfeae01156b58e9a676a729388.js",
+  "service-worker.js": "/react-portfolio/service-worker.js"
 }
